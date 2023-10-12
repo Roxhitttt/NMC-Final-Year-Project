@@ -43,3 +43,32 @@ Points of Review:
 3. Sequence diagram
 4. Activity diagram
 
+
+
+
+_________________________________________________________________________________________
+
+Agile in Software Engineering - https://www.youtube.com/watch?v=Xs6E-MAJbfE&list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2&index=11
+
+Fesibility - https://www.youtube.com/watch?v=JNLRXczA9Y0&list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2&index=14
+
+Software Requirement Specification SRS - https://www.youtube.com/watch?v=83-S5Qu6VP8&list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2&index=16
+
+User Requirement Specification - https://youtu.be/a2fpi0rbr0c?si=Ecghndxm-dPNEsx9
+
+DFD - https://youtu.be/KN-inGJG540?si=bmYrnNYYkFwyrEGR  AND https://youtu.be/IQFfMb2T2PY?si=A7Ka_yI1f3QtV2tK
+
+SPM Software Project Management - https://youtu.be/b6mcMkQONic?si=E9bqtlQ6_FIIhJEO
+
+UML Diagrams - https://youtu.be/3qKKcUZqfQk?si=0F2S17Ou1swcUKnU
+
+Use Case Diagram - https://youtu.be/Hj6Lkoi_VoM?si=NttZx-NutdPSEWOF
+
+Sequence Diagram - https://youtu.be/VnRQ5CNC4Fs?si=ogxZHgXOku9_t49F
+
+Activity Diagram - https://youtu.be/LyhTDsjjjrE?si=0s04bucw6nmb1Ye7
+
+Class Diagram - https://youtu.be/HuL9EMx8NQo?si=_vGWFI5UHsuZMQ--
+
+Object Diagram - https://www.youtube.com/watch?v=HacpzGKF5cU
+
